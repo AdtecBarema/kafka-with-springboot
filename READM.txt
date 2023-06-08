@@ -1,2 +1,7 @@
-Section-5:Understanding KAFKA  and its components-
-       setup zookeeper and Broker server: https://github.com/dilipsundarraj1/kafka-for-developers-using-spring-boot/blob/main/SetUpKafka.md
+Section-5:Understanding KAFKA  and its components:
+
+       - Setup zookeeper and Broker server: https://github.com/dilipsundarraj1/kafka-for-developers-using-spring-boot/blob/main/SetUpKafka.md
+
+       - Create topic, instantiate  producer and consumer from CLI: https://github.com/dilipsundarraj1/kafka-for-developers-using-spring-boot/blob/main/SetUpKafka.md
+
+       - How to instantiate producer  & consumer with topic key: https://github.com/dilipsundarraj1/kafka-for-developers-using-spring-boot/blob/main/SetUpKafka.md
