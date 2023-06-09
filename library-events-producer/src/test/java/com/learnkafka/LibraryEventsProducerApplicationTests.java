@@ -1,10 +1,10 @@
-package com.adtechbarema.libraryeventsproducerkafka;
+package com.learnkafka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LibraryEventsProducerKafkaApplicationTests {
+class LibraryEventsProducerApplicationTests {
 
 	@Test
 	void contextLoads() {
